@@ -1,5 +1,5 @@
 # 🚀 edgetunnel 2.0
-(![Admin Panel](https://raw.githubusercontent.com/cmliu/edgetunnel/main/img.png))
+![Admin Panel]
 
 ---
 

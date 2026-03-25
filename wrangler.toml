@@ -1,6 +1,17 @@
-name = "mm-tunnel"
+name = "v20251104"
 main = "_worker.js"
-compatibility_date = "2025-01-01"
+compatibility_date = "2025-11-04"
+keep_vars = true
 
+# Environment Variables
 [vars]
-ENV = "production"
+UUID = "56b1cbec-9519-4ead-9643-05f240a92107"
+PROXYIP = "104.16.123.96"
+
+# Node.js Compatibility for connect()
+compatibility_flags = [ "nodejs_compat" ]
+
+# KV Namespace (Uncomment and add ID if you use KV)
+# [[kv_namespaces]]
+# binding = "KV"
+# id = "your-kv-id-here"

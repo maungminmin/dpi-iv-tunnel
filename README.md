@@ -1,5 +1,5 @@
 # 🚀 edgetunnel
-![Admin Panel](./img.png)
+![Admin Panel](./vless.png)
 
 ---
 

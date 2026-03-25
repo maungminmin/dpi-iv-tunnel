@@ -81,4 +81,4 @@ Switch proxy configurations dynamically via the URL path:
 4. It is recommended to delete the deployment within 24 hours after testing.
 
 ---
-**If you find this project helpful, please give it a Star 🌟!**
+

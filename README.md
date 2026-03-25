@@ -1,4 +1,4 @@
-# 🚀 edgetunnel 2.0
+# 🚀 edgetunnel
 ![Admin Panel]
 
 ---
